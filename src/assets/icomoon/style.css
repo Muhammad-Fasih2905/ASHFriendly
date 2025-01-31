@@ -1,0 +1,304 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?l1o19b');
+  src:  url('fonts/icomoon.eot?l1o19b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?l1o19b') format('truetype'),
+    url('fonts/icomoon.woff?l1o19b') format('woff'),
+    url('fonts/icomoon.svg?l1o19b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-x32_0_Success .path1:before {
+  content: "\e900";
+  color: rgb(62, 182, 85);
+}
+.icon-x32_0_Success .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(139, 211, 153);
+}
+.icon-x32_0_Success .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-x32_0_Success .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-account_circle:before {
+  content: "\e904";
+  color: #b32425;
+}
+.icon-apple:before {
+  content: "\e905";
+}
+.icon-city-1:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-Group-11 .path1:before {
+  content: "\e907";
+  color: rgb(251, 187, 0);
+}
+.icon-Group-11 .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(81, 142, 248);
+}
+.icon-Group-11 .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(40, 180, 70);
+}
+.icon-Group-11 .path4:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(241, 67, 54);
+}
+.icon-Group-1968:before {
+  content: "\e90b";
+  color: #ffc107;
+}
+.icon-Group-1970:before {
+  content: "\e90c";
+  color: #0e70f8;
+}
+.icon-Group-1171275047:before {
+  content: "\e90d";
+}
+.icon-Group-1171275076:before {
+  content: "\e90e";
+}
+.icon-Group-1171275086:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-Group-1171275938 .path1:before {
+  content: "\e910";
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275938 .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(60, 60, 60);
+}
+.icon-Group-1171275945:before {
+  content: "\e912";
+}
+.icon-Group-1171275958 .path1:before {
+  content: "\e913";
+  color: rgb(203, 227, 250);
+}
+.icon-Group-1171275958 .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(238, 247, 255);
+}
+.icon-Group-1171275958 .path3:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(66, 67, 77);
+}
+.icon-Group-1171275958 .path4:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(179, 36, 37);
+}
+.icon-Group-1171275958 .path5:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(181, 213, 245);
+}
+.icon-Group-1171275958 .path6:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(181, 213, 245);
+}
+.icon-Group-1171275958 .path7:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(181, 213, 245);
+}
+.icon-Group-1171275958 .path8:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(181, 213, 245);
+}
+.icon-Group-1171275958 .path9:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(181, 213, 245);
+}
+.icon-Group-1171275958 .path10:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(88, 89, 102);
+}
+.icon-Group-1171275958 .path11:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(241, 93, 94);
+}
+.icon-Group-1171275963:before {
+  content: "\e91e";
+  color: #b32425;
+}
+.icon-Group-1171275965 .path1:before {
+  content: "\e91f";
+  color: rgb(179, 36, 37);
+}
+.icon-Group-1171275965 .path2:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275965 .path3:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275966 .path1:before {
+  content: "\e922";
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275966 .path2:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(179, 36, 37);
+}
+.icon-Group-1171275967 .path1:before {
+  content: "\e924";
+  color: rgb(155, 17, 17);
+}
+.icon-Group-1171275967 .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: none;
+}
+.icon-Group-1171275967 .path3:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275968:before {
+  content: "\e927";
+}
+.icon-Group-1171275969:before {
+  content: "\e928";
+}
+.icon-Group:before {
+  content: "\e929";
+  color: #b32425;
+}
+.icon-Group-1:before {
+  content: "\e92a";
+  color: #b32425;
+}
+.icon-hotel-solid-svgrepo-com-1:before {
+  content: "\e92b";
+}
+.icon-Icon:before {
+  content: "\e92c";
+  color: #b32425;
+}
+.icon-Icon-1:before {
+  content: "\e92d";
+}
+.icon-Icon-2:before {
+  content: "\e92e";
+}
+.icon-Icon-3:before {
+  content: "\e92f";
+}
+.icon-location-5-1:before {
+  content: "\e930";
+  color: #b32425;
+}
+.icon-location:before {
+  content: "\e931";
+  color: #64748b;
+}
+.icon-lock-open:before {
+  content: "\e932";
+  color: #64748b;
+}
+.icon-mail:before {
+  content: "\e933";
+  color: #64748b;
+}
+.icon-order-tracking-1:before {
+  content: "\e934";
+  color: #b32425;
+}
+.icon-path11774:before {
+  content: "\e935";
+}
+.icon-Phone:before {
+  content: "\e936";
+  color: #64748b;
+}
+.icon-profile:before {
+  content: "\e937";
+}
+.icon-s:before {
+  content: "\e938";
+  color: #b32425;
+}
+.icon-setting-1:before {
+  content: "\e939";
+  color: #b32425;
+}
+.icon-share-2-1:before {
+  content: "\e93a";
+  color: #b32425;
+}
+.icon-Vector:before {
+  content: "\e93b";
+}
+.icon-Vector-1:before {
+  content: "\e93c";
+}
+.icon-Vector-2:before {
+  content: "\e93d";
+  color: #b32425;
+}
+.icon-Vector-3:before {
+  content: "\e93e";
+  color: #b32425;
+}
+.icon-Vector-4:before {
+  content: "\e93f";
+  color: #b32425;
+}
+.icon-Vector-5:before {
+  content: "\e940";
+  color: #b32425;
+}
+.icon-verified-ui-shield-svgrepo-com-1:before {
+  content: "\e941";
+  color: #4eab2e;
+}
+.icon-visible:before {
+  content: "\e942";
+  color: #64748b;
+}

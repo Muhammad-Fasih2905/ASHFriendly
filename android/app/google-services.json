@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981782621451",
+    "project_id": "ash-friendly-76fb0",
+    "storage_bucket": "ash-friendly-76fb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981782621451:android:8e0ab3db998982ce71860e",
+        "android_client_info": {
+          "package_name": "com.dev.ashfriendly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981782621451-t4351uur16bu2l8d2uteu899c7e8ceod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.ashfriendly",
+            "certificate_hash": "f9f143338edc840cd8f8634de5abc8888d7f5139"
+          }
+        },
+        {
+          "client_id": "981782621451-83r5e6kvmiavmm1h16ssrl2fmk57s5qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHumlp6j8a0_Q1VK6s02kJtPnxMXK-TsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981782621451-83r5e6kvmiavmm1h16ssrl2fmk57s5qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
